@@ -19,4 +19,6 @@ blueprint/plugins/link-icons/icons/visited.png: blueprint/plugins/link-icons/ico
 blueprint/plugins/link-icons/icons/xls.png: blueprint/plugins/link-icons/icons/xls-4f6ec43c6cfd67d759ccc123fd44e1c6.png
 blueprint/plugins/link-icons/readme.txt: blueprint/plugins/link-icons/readme-8ab6589909ec01ad59b0396d485d94de.txt
 blueprint/plugins/rtl/readme.txt: blueprint/plugins/rtl/readme-56336a1e125cd02ed221f6da34c74211.txt
+blueprint/print.css: blueprint/print-e8a3c1d15481d968b45744b9dfdbb0af.css
+blueprint/screen.css: blueprint/screen-56cf1e77dd0ddf0a1400ac0681b4729c.css
 blueprint/src/grid.png: blueprint/src/grid-a3e8e6a6df57000ec00b24e8ec862608.png
